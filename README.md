@@ -36,5 +36,5 @@ Aşağıdaki adımları takip edebilirsiniz:
    ```
 6. Değişikliklerinizi uzak depoya gönderin:
    ```bash
-   git push -u origin master
+   git push -u origin main
    ```
